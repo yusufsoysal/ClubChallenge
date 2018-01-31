@@ -1,0 +1,7 @@
+
+/node_modules/
+/.idea/
+/.mvn/
+/target/
+*.iml
+/src/main/resources/application.properties
